@@ -4,7 +4,7 @@ Siga os pasos abaixo e instale o `JupyterLab` ou o clássico `Jupyter Notebook` 
 
 > `Conteúdo fornecido pelo Jupyter`
 
-### Clone esse repositório
+## Clone o repositório
 
 Para facilitar o seu uso e aprendizado na plataforma jupyter, clone esse repositório através da seguinte linha de comando:
 ```

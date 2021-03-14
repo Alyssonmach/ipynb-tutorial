@@ -11,7 +11,7 @@ Para facilitar o seu uso e aprendizado na plataforma jupyter, clone esse reposit
 git clone https://github.com/Alyssonmach/ipynb-tutorial.git
 ```
 
-### Configurando o `Python`
+## Configurando o `Python`
 
 O Jupyter é uma ferramenta desenvolvida para funcionar essencialmente com a linguagem de programação Python (embora seja compátivel com outras linguagens). Desse modo, para que o seu funcionamento ocorra perfeitamente, é necessários que o Jupyter esteja configurado em sua máquina corretamente. Abaixo, segue alguns links de instalação para os sistemas operacionais mais comuns:
 - [Guia de instalação no Windows](https://docs.python.org/3/using/windows.html)
